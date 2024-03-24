@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="baicai">image/baicai.png</file>
+        <file alias="cao">image/cao.png</file>
+        <file alias="chazi">image/chazi.png</file>
+        <file alias="fantuan">image/fantuan.png</file>
+        <file alias="go_play">image/go_play.png</file>
+        <file alias="go_play2">image/go_play_2.png</file>
+        <file alias="huodui">image/huodui.png</file>
+        <file alias="icon">image/icon.png</file>
+        <file alias="jiandao">image/jiandao.png</file>
+        <file alias="lindang">image/lindang.png</file>
+        <file alias="luobo">image/luobo.png</file>
+        <file alias="MainWidget">image/MainWidget.png</file>
+        <file alias="muzhuang">image/muzhuang.png</file>
+        <file alias="naiping">image/naiping.png</file>
+        <file alias="pass">image/pass.png</file>
+        <file alias="pass_music">image/pass_music.mp3</file>
+        <file alias="shoutao">image/shoutao.png</file>
+        <file alias="shuazi">image/shuazi.png</file>
+        <file alias="shuitong">image/shuitong.png</file>
+        <file alias="wpl">image/wpl.png</file>
+        <file alias="yvmi">image/yvmi.png</file>
+        <file alias="sz1">image/sz1.png</file>
+        <file alias="sz2">image/sz2.png</file>
+        <file alias="szxx">image/szxx.png</file>
+        <file alias="x">image/x.png</file>
+        <file alias="move_3_card1">image/move_3_card.png</file>
+        <file alias="move_3_card2">image/move_3_card2.png</file>
+        <file alias="re_move_card1">image/re_move_card1.png</file>
+        <file alias="re_move_one_card">image/re_move_one_card.png</file>
+        <file alias="returnmain">image/returnmain.png</file>
+        <file alias="joinsleep">image/joinsleep.png</file>
+        <file alias="ylgy">image/ylgy.wav</file>
+    </qresource>
+</RCC>
